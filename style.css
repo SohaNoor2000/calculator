@@ -1,0 +1,25 @@
+.main{
+    border: solid 3px gray;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: black;
+    border-radius: 20px;
+}
+.result{
+    width: 100%;
+    border-bottom: 2px solid yellowgreen;
+    height: 80px;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+
+}
+.halfbtn{
+    width: 24%;
+    padding: 5px;
+    margin-top:   3px;
+    margin-bottom: 1px; 
+    border-radius: 10px;
+    background-color:yellowgreen;
+}
